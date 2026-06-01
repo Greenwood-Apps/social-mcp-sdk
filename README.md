@@ -1,6 +1,6 @@
 # Greenwood Social — MCP SDK
 
-Public SDK for Greenwood Social's hosted MCP server. Connect Claude, Claude Code, or Cursor to 9 social platforms via OAuth.
+Public SDK for Greenwood Social's hosted MCP server. Connect Claude, Claude Code, or Cursor to 8 social platforms via OAuth.
 
 > **Open SDK, hosted platform.** This repository (the SDK and integration docs) is open source. The platform integrations it talks to — OAuth, publishing, scheduling, and analytics across every supported network — are hosted by Greenwood Social. You don't run or maintain the servers; you connect to them.
 
@@ -26,7 +26,6 @@ Once connected, your agent can draft, schedule, and publish posts, pull analytic
 | TikTok     | yes     | yes      | yes       |
 | Facebook   | yes     | yes      | yes       |
 | Pinterest  | yes     | yes      | yes       |
-| Threads    | yes     | yes      | yes       |
 | Bluesky    | yes     | yes      | yes       |
 | YouTube    | yes     | yes      | yes       |
 
